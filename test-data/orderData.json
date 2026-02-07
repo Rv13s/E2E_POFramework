@@ -1,0 +1,11 @@
+{
+    
+    "email":"testra@gmail.com",
+    "password":"Test@123",
+    "product":"ZARA COAT 3",
+    "country":"India",
+    "messages":{
+        "orderSuccess":"Thankyou for the order."
+    }
+    
+}

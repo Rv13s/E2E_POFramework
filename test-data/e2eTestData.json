@@ -1,0 +1,11 @@
+{
+    "login": {
+        "email":"testra@gamil.com",
+        "password":"Test@123"},
+    "product":["ADIDAS ORIGINAL", "ZARA COAT 3"],
+    "country":"India",
+    "messages":{
+        "orderSuccess":"Thankyou for the order."
+    }
+    
+}
